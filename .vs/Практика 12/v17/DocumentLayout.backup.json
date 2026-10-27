@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0413\u043B\u0430\u0434\u044B\u0448\u0435\u0432 \u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBE611E-049E-4CB6-9E9E-76CF845B747F}|\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.vcxproj|E:\\\u0413\u043B\u0430\u0434\u044B\u0448\u0435\u0432 \u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BBE611E-049E-4CB6-9E9E-76CF845B747F}|\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.vcxproj|solutionrelative:\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 756,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp",
+              "DocumentMoniker": "E:\\\u0413\u043B\u0430\u0434\u044B\u0448\u0435\u0432 \u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp",
+              "RelativeDocumentMoniker": "\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp",
+              "ToolTip": "E:\\\u0413\u043B\u0430\u0434\u044B\u0448\u0435\u0432 \u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u041F\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp",
+              "RelativeToolTip": "\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 12.cpp",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAFABAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T16:43:12.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
